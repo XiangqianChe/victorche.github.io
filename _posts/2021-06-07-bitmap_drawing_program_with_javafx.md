@@ -1,3 +1,8 @@
+layout: post
+title: "bitmap drawing program with javafx"
+date: 2021-06-07 00:00:00 -0000
+categories: java level3
+
 # bitmap drawing program with javafx
 
 import java.lang.reflect.Constructor;
